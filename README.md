@@ -1,18 +1,9 @@
 # Schoolmanagement
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Anuj%20Kumar-black)
+
+
 ---
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/adminhomepage.png?raw=true)
-### Admin Manage Teacher
-![invoice snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/adminteacher.png?raw=true)
-### Attendance
-![doctor snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/attendance.png?raw=true)
-### Teacher Dashboard
-![doctor snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/teacher.png?raw=true)
----
+
 
 ## Functions
 ### Teacher
@@ -70,10 +61,3 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 https://myaccount.google.com/lesssecureapps
 ```
 
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
